@@ -1,6 +1,6 @@
-## geekinside.me ?????
+# geekinside.me へようこそ
 
-### bash
+## bash
 
 * [CheatSheet](bash/cheat.md)
 
