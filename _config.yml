@@ -1,7 +1,9 @@
 theme: jekyll-theme-architect
-title: geekinside.me
+title: "geekinside.me"
+name: "geekinside.me"
 email: admin@geekinside.me
 description: >- # this means to ignore newlines until "baseurl:"
   geekinside.me
 twitter_username: geekinsideme1
 github_username: geekinsideme
+google_analytics: UA-140788349-1
