@@ -36,3 +36,7 @@
 * [ultimate-list-of-cheatsheets-for-a-sysadmin](https://www.serversaustralia.com.au/resources/blog/ultimate-list-of-cheatsheets-for-a-sysadmin/)
 * [Dash Chearsheet](https://kapeli.com/cheatsheets)
 * [データサイエンスチートシート](https://qiita.com/akatsukaha/items/8205d731d40bf694ce9c)
+
+* [Python](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+
+* [OverAPI](http://overapi.com/)
