@@ -15,6 +15,7 @@
 * [curl](https://devhints.io/curl)
 * [find](https://devhints.io/find)
 * [makefile](https://devhints.io/makefile)
+* [make](https://www.ecoop.net/coop/translated/GNUMake3.77/make_toc.jp.html)
 * [rsync](https://devhints.io/rsync)
 * [sed](https://devhints.io/sed)
 * [docker](https://devhints.io/docker)
