@@ -56,3 +56,4 @@
 * [OverAPI](http://overapi.com/)
 * [ゼロから始めるデータサイエンス - リンク集](https://qiita.com/sireline/items/a74c9c3ebf93b2d2ac7c)
 * [mermaid.jsの記法](https://qiita.com/t_o_d/items/ac5b04419252f768a535)
+* [xlwingsのAPIリファレンス一覧](https://qiita.com/k_maki/items/2dca3b63d43033acaf49)
