@@ -2,6 +2,13 @@
 
 ## Official
 * [Python](https://docs.python.org/ja/3/)
+    * [NumPy](https://numpy.org/devdocs/)
+    * [pandas](https://pandas.pydata.org/docs/)
+    * [scipy](https://docs.scipy.org/doc/scipy/reference/)
+    * [scikit-learn](https://scikit-learn.org/stable/user_guide.html)
+    * [matplotlib](https://matplotlib.org/contents.html)
+    * [seaborn](http://seaborn.pydata.org/index.html)
+    * [tensorflow](https://www.tensorflow.org/)
 * [VSCode](https://code.visualstudio.com/docs)
     * [LSP](https://microsoft.github.io/language-server-protocol/)
 * [Microsoft Code Sample](https://docs.microsoft.com/ja-jp/samples/browse/)
@@ -13,10 +20,12 @@
 
 ### Python
 
+* [Pythonでデータサイエンス](https://pythondatascience.plavox.info/)
 * [The 8 Best Free Python Cheat Sheets for Beginners and Experts](https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
-* [Python](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+* [Python moment](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 * [xlwingsのAPIリファレンス一覧](https://qiita.com/k_maki/items/2dca3b63d43033acaf49)
 * [Python Win32 Extensions](http://typea.info/tips/wiki.cgi?page=Python+Win32+Extensions)
+* [F2PY Users Guide and Reference Manual](http://folk.uio.no/inf3330/scripting/doc/python/fc/f2py.html)
 
 ### JavaScript
 
@@ -81,6 +90,7 @@
 * [markdown](https://devhints.io/npm)
 * [yaml](https://devhints.io/yaml)
 * [mermaid.jsの記法](https://qiita.com/t_o_d/items/ac5b04419252f768a535)
+* [PlantUML Cheat Sheet](https://qiita.com/ogomr/items/0b5c4de7f38fd1482a48)
 
 ### VSCode
 
