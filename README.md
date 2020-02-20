@@ -20,6 +20,7 @@
 
 ### Python
 
+* [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
 * [Pythonでデータサイエンス](https://pythondatascience.plavox.info/)
 * [The 8 Best Free Python Cheat Sheets for Beginners and Experts](https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
 * [Python moment](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
@@ -27,6 +28,8 @@
 * [Python Win32 Extensions](http://typea.info/tips/wiki.cgi?page=Python+Win32+Extensions)
 * [F2PY Users Guide and Reference Manual](http://folk.uio.no/inf3330/scripting/doc/python/fc/f2py.html)
 * [StatsFragments Python pandas 関連エントリの目次](http://sinhrks.hatenablog.com/entry/2015/04/28/235430)
+* [Pandas 公式チートシート](https://qiita.com/s_katagiri/items/4cd7dee37aae7a1e1fc0)
+* [Matplotlib: 作図](http://www.turbare.net/transl/scipy-lecture-notes/intro/matplotlib/matplotlib.html)
 
 ### JavaScript
 
@@ -43,7 +46,6 @@
 
 * [C# 7](https://devhints.io/csharp7)
 
-
 ## OS
 
 ### Linux
@@ -57,6 +59,7 @@
 * [find](https://devhints.io/find)
 * [rsync](https://devhints.io/rsync)
 * [sed](https://devhints.io/sed)
+* [お仕事で知っておけば便利。コマンドを叩くだけで使えるワンライナーチートシート](https://qiita.com/taiyop/items/bfeeb41259cb0d083d88)
 
 ### Windows10
 
@@ -71,12 +74,15 @@
 
 ### Git
 
+* [Git でよく使われるコマンドにイラストによる説明を加えて1枚のチートシートにまとめてみた](https://qiita.com/kozzy/items/b42ba59a8bac190a16ab)
+* [Gitチートシート](https://qiita.com/ktarow/items/1d8c8ae698a88b1d6f0f)
 * [git branch](https://devhints.io/git-branch)
 * [git revisions](https://devhints.io/git-revisions)
 * [git tricks](https://devhints.io/git-tricks)
 
 ### Docker
 
+* [Docker コマンドチートシート](https://qiita.com/wMETAw/items/34ba5c980e2a38e548db)
 * [docker-compose](https://devhints.io/docker-compose)
 * [docker](https://devhints.io/docker)
 
@@ -93,6 +99,10 @@
 * [mermaid.jsの記法](https://qiita.com/t_o_d/items/ac5b04419252f768a535)
 * [PlantUML Cheat Sheet](https://qiita.com/ogomr/items/0b5c4de7f38fd1482a48)
 
+### gulp
+
+* [gulp.js チートシート](https://qiita.com/cognitom/items/e542e6601ab6af8b6e1e)
+
 ### VSCode
 
 * [VSCODE remote development リモートホストがインターネットにつながらない環境での接続](https://qiita.com/waterame/items/9979f1730cccddc8e608)
@@ -104,6 +114,10 @@
 * [データサイエンスチートシート](https://qiita.com/akatsukaha/items/8205d731d40bf694ce9c)
 * [ゼロから始めるデータサイエンス - リンク集](https://qiita.com/sireline/items/a74c9c3ebf93b2d2ac7c)
 * [【データ分析】新規データを受領したら最初にすべき10ステップ](https://qiita.com/takubb/items/e18ea4f7c4ecc8be4a5f)
+
+## まとめ
+
+* [開発に使うチートシートまとめ](http://dragstar.hatenablog.com/entry/2015/03/24/100354)
 
 ## Other
 
