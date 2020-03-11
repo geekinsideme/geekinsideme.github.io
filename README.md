@@ -1,9 +1,11 @@
 # geekinside.me へようこそ
 
+* [Code Snippet](snippet.md)
+
 ## Official
 * [Python](https://docs.python.org/ja/3/)
     * [NumPy](https://numpy.org/devdocs/)
-    * [pandas](https://pandas.pydata.org/docs/)
+    * [pandas](https://pandas.pydata.org/docs/reference/index.html#api)
     * [scipy](https://docs.scipy.org/doc/scipy/reference/)
     * [scikit-learn](https://scikit-learn.org/stable/user_guide.html)
     * [matplotlib](https://matplotlib.org/contents.html)
