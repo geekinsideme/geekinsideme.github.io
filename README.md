@@ -69,6 +69,8 @@
 ### Windows10
 
 * [Aero Shakeを無効にする](https://mseeeen.msen.jp/disable-aero-shake-windows-10/)
+* [Windowsバッチまとめ](https://qiita.com/tomotagwork/items/5b9e08f28d5925d96b5f)
+* [バッチファイルでよく使う書き方まとめ](https://qiita.com/sta/items/8cab80fe74b8dcfa5336)
 
 ## ツール
 
