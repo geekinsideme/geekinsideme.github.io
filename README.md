@@ -4,6 +4,8 @@
 
 ## Official
 * [Python](https://docs.python.org/ja/3/)
+    * [言語リファレンス](https://docs.python.org/ja/3/reference/index.html)
+    * [ライブラリ](https://docs.python.org/ja/3/library/index.html)
     * [NumPy](https://numpy.org/devdocs/)
     * [pandas](https://pandas.pydata.org/docs/reference/index.html#api)
     * [scipy](https://docs.scipy.org/doc/scipy/reference/)
@@ -11,9 +13,10 @@
     * [matplotlib](https://matplotlib.org/contents.html)
     * [seaborn](http://seaborn.pydata.org/index.html)
     * [tensorflow](https://www.tensorflow.org/)
+    * [SQLAlchemy](https://docs.sqlalchemy.org/en/13/contents.html)
 * [VSCode](https://code.visualstudio.com/docs)
+    * [API](https://code.visualstudio.com/api)
     * [LSP](https://microsoft.github.io/language-server-protocol/)
-* [Microsoft Code Sample](https://docs.microsoft.com/ja-jp/samples/browse/)
 * [Mozilla](https://developer.mozilla.org/ja/)
 * [Home Assistant](https://www.home-assistant.io/docs/)
 * [GDB](https://sourceware.org/gdb/download/onlinedocs/gdb/)
