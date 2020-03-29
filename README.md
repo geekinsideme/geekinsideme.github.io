@@ -15,7 +15,7 @@
     * [seaborn](http://seaborn.pydata.org/index.html)
     * [tensorflow](https://www.tensorflow.org/)
     * [SQLAlchemy](https://docs.sqlalchemy.org/en/13/contents.html)
-    * [Flask](https://a2c.bitbucket.io/flask/)
+    * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 * [VSCode](https://code.visualstudio.com/docs)
     * [API](https://code.visualstudio.com/api)
     * [LSP](https://microsoft.github.io/language-server-protocol/)
@@ -37,6 +37,9 @@
 * [StatsFragments Python pandas 関連エントリの目次](http://sinhrks.hatenablog.com/entry/2015/04/28/235430)
 * [Pandas 公式チートシート](https://qiita.com/s_katagiri/items/4cd7dee37aae7a1e1fc0)
 * [Matplotlib: 作図](http://www.turbare.net/transl/scipy-lecture-notes/intro/matplotlib/matplotlib.html)
+* [Flask (日本語)](https://a2c.bitbucket.io/flask/)
+* [Pythonで学ぶwebアプリケーションの作り方by Flask](https://study-flask.readthedocs.io/ja/latest/index.html#)
+* [Flask でよく利用するコードまとめ](https://www.superbusinessman.biz/flask-cheat-sheet/)
 
 ### JavaScript
 
@@ -52,6 +55,10 @@
 ### C#
 
 * [C# 7](https://devhints.io/csharp7)
+
+### SQL
+
+* [SQL Cheat Sheet](https://www.jrebel.com/blog/sql-cheat-sheet)
 
 ## OS
 
@@ -114,6 +121,7 @@
 
 ### VSCode
 
+* [Visual Studio Code Docsの日本語訳(内容は古いので注意)](https://vscode-doc-jp.github.io/docs/)
 * [VSCODE remote development リモートホストがインターネットにつながらない環境での接続](https://qiita.com/waterame/items/9979f1730cccddc8e608)
 
 ## データ分析
