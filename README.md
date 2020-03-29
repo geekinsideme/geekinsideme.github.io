@@ -15,6 +15,7 @@
     * [seaborn](http://seaborn.pydata.org/index.html)
     * [tensorflow](https://www.tensorflow.org/)
     * [SQLAlchemy](https://docs.sqlalchemy.org/en/13/contents.html)
+    * [Flask](https://a2c.bitbucket.io/flask/)
 * [VSCode](https://code.visualstudio.com/docs)
     * [API](https://code.visualstudio.com/api)
     * [LSP](https://microsoft.github.io/language-server-protocol/)
