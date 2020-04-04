@@ -90,6 +90,7 @@
 
 ### Git
 
+* [サルでもわかるGit入門](https://backlog.com/ja/git-tutorial/)
 * [Git でよく使われるコマンドにイラストによる説明を加えて1枚のチートシートにまとめてみた](https://qiita.com/kozzy/items/b42ba59a8bac190a16ab)
 * [Gitチートシート](https://qiita.com/ktarow/items/1d8c8ae698a88b1d6f0f)
 * [git branch](https://devhints.io/git-branch)
