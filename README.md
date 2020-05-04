@@ -14,6 +14,7 @@
     * [scikit-learn](https://scikit-learn.org/stable/user_guide.html)
     * [matplotlib](https://matplotlib.org/contents.html)
     * [seaborn](http://seaborn.pydata.org/index.html)
+    * [plotly](https://plotly.com/python/)
     * [tensorflow](https://www.tensorflow.org/)
     * [SQLAlchemy](https://docs.sqlalchemy.org/en/13/contents.html)
     * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
@@ -23,6 +24,7 @@
 * [Mozilla](https://developer.mozilla.org/ja/)
 * [Home Assistant](https://www.home-assistant.io/docs/)
 * [GDB](https://sourceware.org/gdb/download/onlinedocs/gdb/)
+* [PostgreSQL](https://www.postgresql.jp/document/11/html/sql.html)
 
 ## 言語
 
