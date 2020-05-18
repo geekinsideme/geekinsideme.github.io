@@ -34,7 +34,7 @@
 * [Pythonでデータサイエンス](https://pythondatascience.plavox.info/)
 * [The 8 Best Free Python Cheat Sheets for Beginners and Experts](https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
 * [Python moment](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
-* [xlwingsのAPIリファレンス一覧]良質なtps://qiita.com/k_maki/items/2dca3b63d43033acaf49)
+* [xlwingsのAPIリファレンス一覧](https://qiita.com/k_maki/items/2dca3b63d43033acaf49)
 * [Python Win32 Extensions](http://typea.info/tips/wiki.cgi?page=Python+Win32+Extensions)
 * [F2PY Users Guide and Reference Manual](http://folk.uio.no/inf3330/scripting/doc/python/fc/f2py.html)
 * [StatsFragments Python pandas 関連エントリの目次](http://sinhrks.hatenablog.com/entry/2015/04/28/235430)
