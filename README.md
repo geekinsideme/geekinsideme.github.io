@@ -55,6 +55,7 @@
 * [C 言語リファレンス(Microsoft)](https://docs.microsoft.com/ja-jp/cpp/c-language/organization-of-the-c-language-reference?view=vs-2019)
 * [ansi](https://devhints.io/ansi)
 * [c preprocessor](https://devhints.io/c_preprocessor)
+* [コンパイラ警告一覧](https://github.com/srz-zumix/awesome-cpp-warning)
 
 ### C#
 
@@ -87,7 +88,7 @@
 
 ## ツール
 
-### Regex
+### Reg一覧
 
 * [regex](https://devhints.io/regexp)
 * [regex tester](https://regex101.com/#python)
