@@ -31,6 +31,7 @@
 
 ### Python
 
+* [KyotoGeoPython ホームページへようこそ](https://kyotogeopython.zawawahoge.com/)
 * [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
 * [Pythonでデータサイエンス](https://pythondatascience.plavox.info/)
 * [The 8 Best Free Python Cheat Sheets for Beginners and Experts](https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
@@ -130,6 +131,12 @@
 * [Visual Studio Code Docsの日本語訳(内容は古いので注意)](https://vscode-doc-jp.github.io/docs/)
 * [VSCODE remote development リモートホストがインターネットにつながらない環境での接続](https://qiita.com/waterame/items/9979f1730cccddc8e608)
 
+## Doxygen
+
+* [Doxygenチートシート](https://www.amazon.co.jp/hz/wishlist/ls/5XFX6D9FHFHF?&sort=default)
+* [最近覚えた便利アプリ[doxygen]](https://qiita.com/wakaba130/items/faa6671bd5c954cb2d02)
+* [DoxygenによるMarkdown形式からのドキュメント作成](https://qiita.com/mebiusbox2/items/16dabf649b0a91f63f1c)
+
 ## データ分析
 
 * [データ分析](https://www.datacamp.com/community/data-science-cheatsheets)
@@ -137,6 +144,8 @@
 * [データサイエンスチートシート](https://qiita.com/akatsukaha/items/8205d731d40bf694ce9c)
 * [ゼロから始めるデータサイエンス - リンク集](https://qiita.com/sireline/items/a74c9c3ebf93b2d2ac7c)
 * [【データ分析】新規データを受領したら最初にすべき10ステップ](https://qiita.com/takubb/items/e18ea4f7c4ecc8be4a5f)
+* [【Python】前処理大全 そのまま メモ](https://qiita.com/sanoyo/items/a1b7991f93005bf7c933)
+* [「データ可視化」が歴史から実装まで体系的に学べるStanford講座の独習ノート](https://qiita.com/tomo_makes/items/4d69f347a5e49346df37)
 
 ## まとめ
 
@@ -149,4 +158,3 @@
 * [Dash Chearsheet](https://kapeli.com/cheatsheets)
 * [OverAPI](http://overapi.com/)
 * [Sourcetrail](https://www.sourcetrail.com/)
-
