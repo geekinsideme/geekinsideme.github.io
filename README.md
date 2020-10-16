@@ -46,6 +46,7 @@
 * [Flask (日本語)](https://a2c.bitbucket.io/flask/)
 * [Pythonで学ぶwebアプリケーションの作り方by Flask](https://study-flask.readthedocs.io/ja/latest/index.html#)
 * [Flask でよく利用するコードまとめ](https://www.superbusinessman.biz/flask-cheat-sheet/)
+* [複数のCSV、データフレームを1つのデータフレームに高速にまとめる【60倍速】 - Qiita](https://qiita.com/jutis_/items/3e252a82993f79ad1cb8)  
 
 ### JavaScript
 
