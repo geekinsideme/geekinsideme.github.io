@@ -32,6 +32,7 @@
 
 ### Python
 
+* [pycodestyle(pep8) エラーコードチートシート - Qiita](https://qiita.com/KuruwiC/items/8e12704e338e532eb34a)  
 * [KyotoGeoPython ホームページへようこそ](https://kyotogeopython.zawawahoge.com/)
 * [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
 * [Pythonでデータサイエンス](https://pythondatascience.plavox.info/)
