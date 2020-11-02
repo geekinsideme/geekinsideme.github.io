@@ -124,6 +124,10 @@
 * [yaml](https://devhints.io/yaml)
 * [mermaid.jsの記法](https://qiita.com/t_o_d/items/ac5b04419252f768a535)
 * [PlantUML Cheat Sheet](https://qiita.com/ogomr/items/0b5c4de7f38fd1482a48)
+* [UMLは設計書だけでなく 要求分析や要件定義にも使える！ とりあえず4つだけ覚えよう！ - Qiita](https://qiita.com/RyosukeKamei/items/2b7701244176585457a6)  
+* [PlantUMLでユースケースを描こう！割と簡単！ - Qiita](https://qiita.com/RyosukeKamei/items/77ab9b8765972f137032)  
+* [VSCode・PlantUMLでアクティビティ図を描こう！16Tips！〜バツ2 シンパパが子供らの学費を稼ぐ！〜 - Qiita](https://qiita.com/RyosukeKamei/items/2c41b08a762afa64d998)  
+
 
 ### gulp
 
